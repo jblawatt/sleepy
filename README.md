@@ -1,2 +1,7 @@
-# sleepy
-Minimalistic Raspberry PI Sleep / Wake Timer
+
+
+TODO
+- fadeout
+- fadein
+- player-config
+
