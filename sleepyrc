@@ -1,0 +1,13 @@
+[sleep]
+steps = 10,20,30,40
+player = player
+
+[wake]
+time: 19:07
+volume = 100
+player = player
+
+[player]
+; https://wiki.videolan.org/Media_resource_locator/
+type = sleepy.player.VLCPlayer
+media_uri = song.mp3
