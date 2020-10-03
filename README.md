@@ -1,7 +1,7 @@
 
 # Sleepy
 
-![](docs/img/project.jpg)
+![Screenshot](docs/img/project.png)
 
 
 Ein kleiner Sleep-Timer / Wecker Prototyp für den Raspberry PI um das Handy aus
